@@ -1,2 +1,2 @@
 # dsa_docx
-DSA PRD 작성을 위한 개발문서
+DSA 개발 문서 가이드
